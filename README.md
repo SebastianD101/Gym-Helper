@@ -11,7 +11,7 @@ This application will help you calculate
     - Creatine
     - Protein
 
-[Picture of working code](gym-helper-example.PNG)
+![](gym-helper-example.PNG)
 
 Try out the program here:
 **__(Make sure interactive mode is on)__**
